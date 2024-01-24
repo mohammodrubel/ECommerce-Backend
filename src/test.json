@@ -1,0 +1,80 @@
+[
+    {
+    "productName": "Smartphone XYZ",
+    "category": "Electronics",
+    "price": 599.99,
+    "currency": "USD",
+    "image": "https://www.ryanscomputers.com/storage/products/small/micropack-mhp-800-yellow-wired-11610344889.webp",
+    "description": "A high-performance smartphone with advanced features.",
+    "totalStock": 50,
+    "createdAt": "2024-01-05T06:21:34.323Z",
+    "updatedAt": "2024-01-05T06:21:34.323Z",
+    "quantity":0,
+    "__v": 0
+    },
+    {
+    "productName": "Smartphone ",
+    "category": "Electronics",
+    "price": 599.99,
+    "currency": "USD",
+    "image": "https://www.ryanscomputers.com/storage/products/small/havit-gamenote-h2031d-wired-black-red-gaming-11644669286.webp",
+    "description": "A high-performance smartphone with advanced features.",
+    "totalStock": 50,
+    "quantity":0,
+    "createdAt": "2024-01-05T08:39:40.310Z",
+    "updatedAt": "2024-01-05T08:39:40.310Z",
+    "__v": 0
+    },
+    {
+    "productName": "full shirt",
+    "category": "Tablet Pc",
+    "price": 33,
+    "currency": "USD",
+    "image": "https://www.ryanscomputers.com/storage/products/small/havit-h2263d-wired-black-11608811651.webp",
+    "description": "sf",
+    "totalStock": 3,
+    "quantity":0,
+    "createdAt": "2024-01-06T10:31:35.032Z",
+    "updatedAt": "2024-01-06T10:31:35.032Z",
+    "__v": 0
+    },
+    {
+    "productName": "Full Home",
+    "category": "Monitor",
+    "price": 344,
+    "quantity":0,
+    "currency": "USD",
+    "image": "https://www.ryanscomputers.com/storage/products/small/havit-h2010d-pro-over-ear-black-wired-rgb-gaming-11664097626.webp",
+    "description": "kkljkljl",
+    "totalStock": 6666,
+    "createdAt": "2024-01-06T10:35:09.072Z",
+    "updatedAt": "2024-01-06T10:35:09.072Z",
+    "__v": 0
+    },
+    {
+    "productName": "Full Homee",
+    "category": "Monitor",
+    "price": 344,
+    "quantity":0,
+    "currency": "USD",
+    "image": "https://www.ryanscomputers.com/storage/products/small/meetion-mt-hp010-wired-black-orange-gaming-21637129649.webp",
+    "description": "kkljkljl",
+    "totalStock": 6666,
+    "createdAt": "2024-01-06T10:35:43.988Z",
+    "updatedAt": "2024-01-06T10:35:43.988Z",
+    "__v": 0
+    },
+    {
+    "productName": "Hd Phn nn",
+    "category": "Laptop",
+    "price": 34,
+    "quantity":0,
+    "currency": "USD",
+    "image": "https://www.ryanscomputers.com/storage/products/small/edifier-h650-orange-on-ear-wired-11612939652.webp",
+    "description": "kkljkljlkljklkl",
+    "totalStock": 66667,
+    "createdAt": "2024-01-06T12:17:18.153Z",
+    "updatedAt": "2024-01-06T12:17:18.153Z",
+    "__v": 0
+    }
+    ]
